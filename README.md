@@ -6,7 +6,7 @@ This is the ReactJS frontend for the dynamic Leaderboard app. It lets users:
 - Claim random points for a user
 - View point claim history
 
-**Live App:** [YOUR FRONTEND URL HERE]
+**Live App:** https://frontend-leaderboard.vercel.app/
 
 ---
 
